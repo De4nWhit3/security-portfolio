@@ -5,7 +5,7 @@ Documented cloud security investigations, built in a live Azure tenant
 
 Target role: SOC Analyst / Security Analyst
 Currently: Software Developer | Cape Town
-Contact: deanwhite2@proton.me · [[LinkedIn URL]](https://www.linkedin.com/in/deanwhite2/)
+Contact: deanwhite2@proton.me · [[LinkedIn]](https://www.linkedin.com/in/deanwhite2/)
 
 ## Investigations
 | # | Title | Focus | Write-up |
